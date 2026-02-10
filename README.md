@@ -181,8 +181,7 @@
 ‎                    <li>የህይወት ትምህርትን ከእነሱ እናገኛለን</li>
 ‎                    <li>ደስታቸውን እንጋራለን</li>
 ‎                    <li>በተማሪዎች መካከል ትውውቅ ይፈጥራል</li>
-            </div>
-        </article>
+            
 
         <article class="blog-post">
             <img src="https://i.ibb.co/237F8v8Z/IMG-20260208-144341-725.jpg" alt="Project 2" class="post-image">
@@ -210,7 +209,7 @@
 ‎                    <li>ደስታቸውን እንጋራለን</li>
 ‎                    <li><p>ጥቅሙ</p> 
 በብርድ ከሚማቅቁ ወገኖች መሃል ቢያንስ ህፃናትን ከአስከፊ ብርድ እና እሱን ተከትሎ ከሚመጡ ተላላፊ በሽታዎች በጥቂቱም ቢሆን እንዲከላከሉ ያስችላቸዋል!</li>
-‎                </ul>
+‎                
         </article>
 
         <article class="blog-post">
